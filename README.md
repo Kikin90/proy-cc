@@ -8,3 +8,5 @@ Este sistema va a ayudar a los usuarios a buscar libros, revistas, documentos y 
 Esta aplicación de biblioteca digital transforma la forma en que exploras el mundo de la lectura. Ofrecemos acceso inmediato a una vasta colección de libros, revistas y recursos digitales de alta calidad, todo en una plataforma fácil de usar. Con la comunidad activa tienes la oportunidad de conectarte con otros amantes de la lectura, participar en discusiones y eventos literarios.
 ## Enlaces
 [Hito 0](docs/hitos/hito0.md)
+
+[Hito 0](docs/hitos/hito1.md)
