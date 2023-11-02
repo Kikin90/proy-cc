@@ -1,0 +1,10 @@
+Language:
+  - Python
+
+Entities:
+  - src/Application/libreria/models.py
+  - src/Application/libreria/views.py
+  - src/Application/libreria/urls.py
+
+Test:
+ -src/Test
