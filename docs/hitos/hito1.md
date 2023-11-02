@@ -30,6 +30,18 @@ LibroWave Version 1.1
 
 ## Milestones
 
+**MS-1:** [Definición y creación del proyecto.](https://github.com/Kikin90/proy-cc/milestone/1)
+
+**MS-2:** [Definición y creación de pruebas unitarias.](https://github.com/Kikin90/proy-cc/milestone/2)
+
+**MS-3:** [Creación de contenedores.](https://github.com/Kikin90/proy-cc/milestone/3)
+
+**MS-4:** [Desarrollo del servicio.](https://github.com/Kikin90/proy-cc/milestone/4)
+
+**MS-5:** [Integración continua del proyecto.](https://github.com/Kikin90/proy-cc/milestone/5)
+
+**MS-6:** [Despliegue del servicio con contenedores.](https://github.com/Kikin90/proy-cc/milestone/6)
+
 <a name="ps"></a>
 
 ## Estructura del Proyecto
