@@ -18,7 +18,7 @@ class BookTestCase(TestCase):
         print("""Testing update Book""")
         b1 = Book.objects.get(title="Harry Potter and the Goblet of Fire")
         print("Get"+b1.title)
-        b1.title="Harry Potter y el Cáliz de Fuego2"
+        b1.title="Harry Potter y el Cáliz de Fuego 3"
         print("Changing Title")
         b1.save()   
         b2 = Book.objects.get(title="Harry Potter y el Cáliz de Fuego")
