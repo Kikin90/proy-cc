@@ -58,7 +58,17 @@ Se comprueba y ya esta la imagen en DockerHub:
 
 ## Uso de GitHub Container Registry 
 
-Con GitHub Container Registry almacenamos imágenes de contenedores dentro de nuestra cuenta de GitHub. En este caso se utiliza para almacenar la imagen my-bookapp-web. El desplieque del contenedor se puede ver [aquí](../workflows/update_image.yml).
+Con GitHub Container Registry almacenamos imágenes de contenedores dentro de nuestra cuenta de GitHub. En este caso se utiliza para almacenar la imagen my-bookapp-web. El desplieque del contenedor se puede ver [aquí](../../.github/workflows/update_image.yml).
 
 
+## Registro de Tokens en GitHub
+
+Para lograr la sincronización entre GitHub y DockerHub se crearon 3 tokens en la seguridad del repositorio de Github, estos permiten la conexion entre estos 2 sistemas y realizar una serie de acciones definidas en el archivo [update_image](../../.github/workflows/update_image.yml) y por ultimo realizaria el commit sin problema con las GithubActions.
+
+![foto_3](../images/Tokens_Seguridad.png)
+
+## Ejecución Correctas de GithubActions
+Un vez configurado todo se realizaron varios test en la aplicación y cada vez que se hacia commit este era el resultado.
+
+![foto_3](../images/SubidaAccionExito.png)
 
