@@ -14,3 +14,5 @@ Esta aplicación de biblioteca digital transforma la forma en que exploras el mu
 [Hito 2](docs/hitos/hito2.md)
 
 [Hito 3](docs/hitos/hito3.md)
+
+[Hito 4](docs/hitos/hito4.md)

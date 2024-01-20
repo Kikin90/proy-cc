@@ -1,0 +1,23 @@
+pipeline {
+    agent any
+
+    environment {
+        DOCKER_IMAGE = 'kikin90/my-bookapp-web:latest'
+    }
+
+    stages {
+        stage('Checkout') {
+            steps {
+                checkout scm
+            }
+        }
+
+        stage('Test') {
+            steps {
+                script {
+                    bat 'test.py'
+                }
+            }
+        }
+    }
+}
