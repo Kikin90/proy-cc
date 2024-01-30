@@ -1,6 +1,6 @@
 # Hito #4
 
-LibroWave Version 2.2
+LibroWave Version 2.3
 
 ## Contenido de este Hito
 
